@@ -44,8 +44,8 @@ graph LR
 
 ### 2. Installation
 ```bash
-git clone https://github.com/TORBIomar/django-mongodb-library.git
-cd django-mongodb-library
+git clone https://github.com/TORBIomar/django-mongodb-book-catalog.git
+cd django-mongodb-book-catalog
 
 # Create virtual environment
 python -m venv venv
